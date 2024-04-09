@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/Mexx77/golang-mono/generic_data_types/set"
-	lib1 "github.com/Mexx77/golang-mono/libs/lib1"
+	"github.com/Mexx77/golang-mono/pkg/generic_data_types/set"
+	"github.com/Mexx77/golang-mono/pkg/lib1"
 	"github.com/Mexx77/golang-mono/services/app1/internal/some_package"
 )
 

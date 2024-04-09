@@ -1,7 +1,7 @@
 go 1.22.2
 
 use (
-	./generic_data_types
-	./libs/lib1
+	./pkg/generic_data_types
+	./pkg/lib1
 	./services/app1
 )
